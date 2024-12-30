@@ -5,25 +5,25 @@
 
 ## 🧐 About Me
 - 🏊‍♀️ I enjoy water sports like swimming and paddleboarding, which help me calm my mind and think clearly.
-- 🎸 I'm a self-taught guitarist (still a beginner). My favorite songs are "Anhe Bridge" and "Nanshan South."
+- 🎸 I'm a self-taught guitarist (still a beginner). My favorite songs are "An He Qiao" and "nan shan nan".
 - 📺 During my free time, I love watching anime and movies.
 - 👯 And many more...
 
 ## 📚 Education
 - 📗 **2019-2023**: Bachelor's degree in Electronic Science and Technology at Xiamen University. Studied circuit design, embedded systems, and more.
 - 📘 **2023-Present**: Master's degree in the School of Information Science at Xiamen University. Focusing on machine learning and inertial navigation.
-- 📙 **Future Goals**: Although I believe I have the ability to complete a Ph.D., financial constraints make it necessary for me to find a job soon.
+- 📙 **Future Goals**: I am confident in my ability to pursue a Ph.D., but I am currently focusing on gaining professional experience due to financial considerations.
 
 ## 🏆 Competitions
-- 🥇 National Embedded System and IoT Design Competitions
-- 🏅 Other contests
+- 🥇 National University Embedded Chip and System Design Competition (Top Award)([Link](http://www.socchina.net/home?trackType=2)) and National University IoT Design Competition (First Prize)([Link](https://iot.sjtu.edu.cn/Default.aspx))
+- 🏅 Additional competitions
 
 ## 🔬 Research
-- 0️⃣ **FTIN**: Frequency-Temporal Integration Network for Enhanced Inertial Localization (Submission in progress; more details will be shared upon acceptance).
+- 0️⃣ **FTIN**: **Frequency-Temporal Integration Network for Enhanced Inertial Localization** (Paper under review; details will be shared upon acceptance).
 - 1️⃣ Ongoing research projects to be disclosed upon formal publication.
 
 ## 💼 Work Experience
-- 🖥 **2022.07-2022.08**: Algorithm Development Intern at Solin Technology. Worked on IMU data processing for devices.
+- 🖥 **2022.07-2022.08**: Algorithm Development Intern at Xiamen Solin Technology Co., Ltd.([Link](https://www.solex-group.com/)). Worked on IMU data processing for devices.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
