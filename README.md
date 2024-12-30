@@ -25,7 +25,7 @@
 ## 💼 Work Experience
 - 🖥 **2022.07-2022.08**: Algorithm Development Intern at Xiamen Solin Technology Co., Ltd.([Link](https://www.solex-group.com/)). Worked on IMU data processing for devices.
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 💬 More project details are shared on Wolai ([Link](https://www.wolai.com/nQ1geaWohw1TourtRFLABF)) with open access!
 - ⚡ Fun fact: I enjoy meeting new people and exploring different cuisines.
