@@ -1,5 +1,5 @@
 # 233 👨‍💻
-### I'm 233, a master's student at the ATR Lab, School of Information Science, Xiamen University. My research focuses on machine learning-based inertial navigation. Due to financial considerations, I probably won't pursue a Ph.D.
+### I'm 233, a master's student. My research focuses on machine learning-based inertial navigation. Due to financial considerations, I probably won't pursue a Ph.D.
 
 ---
 
@@ -10,8 +10,8 @@
 - 👯 And many more...
 
 ## 📚 Education
-- 📗 **2019-2023**: Bachelor's degree in Electronic Science and Technology at Xiamen University. Studied circuit design, embedded systems, and more.
-- 📘 **2023-Present**: Master's degree in the School of Information Science at Xiamen University. Focusing on machine learning and inertial navigation.
+- 📗 **2019-2023**: Bachelor's degree. Studied circuit design, embedded systems, and more.
+- 📘 **2023-Present**: Master's degree. Focusing on machine learning and inertial navigation.
 - 📙 **Future Goals**: I am confident in my ability to pursue a Ph.D., but I am currently focusing on gaining professional experience due to financial considerations.
 
 ## 🏆 Competitions
