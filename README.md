@@ -39,11 +39,6 @@
 
 | # | Title | Status | Role |
 |:-:|:------|:-------|:----:|
-| 0️⃣ | [**FTIN: Frequency-Temporal Integration Network for Enhanced Inertial Localization**](https://arxiv.org/abs/2507.16120) | Under Review (ICASSP) | First Author |
-| 1️⃣ | [**ResKACNNet: A Novel Backbone for Inertial Localization with Enhanced Long-Term Trajectory Modeling**](https://arxiv.org/abs/2507.16865) | Under Review (ICASSP) | First Author |
-| 2️⃣ | [**CKANIO: Learnable Chebyshev Polynomials for Inertial Odometry**](https://arxiv.org/abs/2507.15293) | Under Review (ICASSP) | First Author |
-| 3️⃣ | [**StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**](https://arxiv.org/abs/2507.16121) | Under Review | First Author |
-| 4️⃣ | [**IONext: Unlocking the Next Era of Inertial Odometry**](https://arxiv.org/abs/2507.17089) | Under Review | First Author |
 | 5️⃣ | [**A Factor Graph Based Indoor Localization Approach for Healthcare**](https://ieeexplore.ieee.org/abstract/document/10385673) | IEEE BIBM 2023 | Fourth Author |
 | 6️⃣ | [**Data Collection and Alignment Algorithms for Data-driven Inertial Navigation**](https://ieeexplore.ieee.org/abstract/document/10786128) | IPIN 2024 | Third Author |
 
