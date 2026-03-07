@@ -39,7 +39,9 @@
 
 | # | Title | Status | Role |
 |:-:|:------|:-------|:----:|
-| 5️⃣ | [**A Factor Graph Based Indoor Localization Approach for Healthcare**](https://ieeexplore.ieee.org/abstract/document/10385673) | IEEE BIBM 2023 | Fourth Author |
+| 5️⃣ | [**StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**]([https://ieeexplore.ieee.org/abstract/document/10385673](https://arxiv.org/html/2507.16121)) | ICRA 2026 | First Author |
+| 5️⃣ | [**FTIN: Frequency-Time Integration Network for Inertial Odometry**]([https://ieeexplore.ieee.org/abstract/document/10385673](https://arxiv.org/abs/2507.16120)) | ICASSP 2026 | First Author |
+| 5️⃣ | [**A Factor Graph Based Indoor Localization Approach for Healthcare**](https://ieeexplore.ieee.org/abstract/document/10385673) | BIBM 2023 | Fourth Author |
 | 6️⃣ | [**Data Collection and Alignment Algorithms for Data-driven Inertial Navigation**](https://ieeexplore.ieee.org/abstract/document/10786128) | IPIN 2024 | Third Author |
 
 ---
