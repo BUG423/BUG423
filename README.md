@@ -38,6 +38,11 @@ I'm a master's student at Xiamen University, with research interests in inertial
 - Lightweight models for **mobile sensing and embedded intelligence**
 
 ### 🧠 Selected Publications
+
+- **IONext: Unlocking the Next Era of Inertial Odometry**  
+  *IEEE RA-L*, First Author  
+  [Paper](https://arxiv.org/abs/2507.17089)
+  
 - **StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**  
   *ICRA 2026*, First Author  
   [Paper](https://arxiv.org/abs/2507.16121)
@@ -56,19 +61,7 @@ I'm a master's student at Xiamen University, with research interests in inertial
 - **Data Collection and Alignment Algorithms for Data-driven Inertial Navigation**  
   *IPIN 2024*, Third Author  
   [Paper](https://ieeexplore.ieee.org/abstract/document/10786128)
-
-### 📝 Preprints / Under Review
-- **IONext: Unlocking the Next Era of Inertial Odometry**  
-  *Under Review*, First Author  
-  [Paper](https://arxiv.org/abs/2507.17089)
-
-- **TinyIO: Lightweight Reparameterized Inertial Odometry**  
-  *Under Review*, First Author  
-  [Paper](https://arxiv.org/abs/2507.15293)
-
-- **MambaIO: Multi-Scale Frequency-Decoupled Inertial Odometry**  
-  *Under Review*, First Author  
-  [Paper](https://arxiv.org/abs/2511.15645)
+  
 
 ### 🧾 Patent
 - **A Localization Method with Dynamic Fusion of Inertial, Visual, and Prior Information**  
