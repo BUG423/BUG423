@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm 张珊珊 (Shanshan Zhang) 👋
+# Hi, I'm 233 👋
 
 ### Artificial Intelligence · Inertial Positioning · Embedded Systems
 
@@ -37,7 +37,7 @@
   - **2019.09 – 2023.06** · 厦门大学电子科学与技术学院，电子信息科学与技术，**工学学士**
 - 🔬 **研究重点**：神经网络惯性里程计、多模态时频特征融合、端侧移动端位姿解算
 - 🛠️ **核心技术栈**：Python, C/C++, PyTorch, Linux, Git, Docker, ESP32, 树莓派, 立创EDA
-- 🤝 **学术与技术交流**：欢迎围绕惯性导航、定位算法、嵌入式智能开展学术交流与项目合作！邮箱：[1264696035@qq.com](mailto:1264696035@qq.com)
+- 🤝 **学术与技术交流**：欢迎围绕惯性导航、定位算法、嵌入式智能开展学术交流与项目合作！
 
 ---
 
