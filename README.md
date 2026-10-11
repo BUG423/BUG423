@@ -18,12 +18,11 @@
 
 ### 👨‍💻 关于我
 
-厦门大学硕士研究生（2026 届），专注于**神经网络惯性定位（Inertial Odometry）与端侧智能系统**研究，兼具底层电路、固件驱动到跨平台应用的全栈工程开发能力。
+我是一个做嵌入式开发、基于神经网络的惯性定位，还有人工智能应用开发的。
 
 - 🎓 **学历背景**：
   - **2023.09 – 2026.06** · 厦门大学信息学院，通信工程，**工学硕士**
   - **2019.09 – 2023.06** · 厦门大学电子科学与技术学院，电子信息科学与技术，**工学学士**
-- 🔬 **研究方向与技术栈**：神经网络惯性里程计 · 多模态时频特征融合 · 端侧推理 · C/C++ · Python · PyTorch · ESP32 · Linux
 
 ---
 
@@ -51,7 +50,7 @@
 
 **学术论文**
 - **IONext: Unlocking the Next Era of Inertial Odometry**  
-  *IEEE Robotics and Automation Letters (RA-L)* · **第一作者** · [Paper](https://arxiv.org/abs/2507.17089)
+  *IEEE Robotics and Automation Letters (RA-L)* · **第一作者** · [IEEE Early Access (DOI: 10.1109/LRA.2026.3709641)](https://doi.org/10.1109/LRA.2026.3709641) · [arXiv](https://arxiv.org/abs/2507.17089)
 
 - **StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**  
   *ICRA 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16121) · [Poster (PDF)](assets/posters/poster_stario_icra2026.pdf)  
