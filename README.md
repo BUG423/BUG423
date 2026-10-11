@@ -62,13 +62,7 @@
   <br>
 
 - **FTIN: Frequency-Time Integration Network for Inertial Odometry**  
-  *ICASSP 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16120) · [Poster (PDF)](assets/posters/poster_ftin_icassp2026.pdf)  
-  <div align="center">
-    <a href="assets/posters/poster_ftin_icassp2026.png" target="_blank">
-      <img src="assets/posters/poster_ftin_icassp2026.png" alt="FTIN ICASSP 2026 Poster" width="92%" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-    </a>
-  </div>
-  <br>
+  *ICASSP 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16120)
 
 - **Boosting Knowledge Distillation via Local Categories Similarity Scaling**  
   *ICASSP 2026* · **第二作者**
