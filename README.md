@@ -2,7 +2,7 @@
 
 # Hi, I'm 233 👋
 
-### Artificial Intelligence · Inertial Positioning · Embedded Systems
+**Artificial Intelligence · Inertial Positioning · Embedded Systems**
 
 <p>
   <img src="https://img.shields.io/badge/Xiamen_University-M.Eng.-005BAC?style=flat-square&logo=xiamen-university" alt="Xiamen University" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 关于我
+## 👨‍💻 关于我
 
 一个做嵌入式开发、基于神经网络的惯性定位，还有人工智能应用开发的码农。
 
@@ -28,40 +28,47 @@
 
 ---
 
-### 🚀 核心项目与成果矩阵
+## 🚀 开源项目
 
-根据领域研究与工程实践，开源成果分为三大核心板块（支持直达在线体验）：
+围绕嵌入式、惯性定位与人工智能应用，探索从研究到工程的落地实践。
 
-| 研究 / 工程领域 | 项目与体验入口 (点击直达) | 核心亮点与一句话介绍 |
+### 嵌入式 · Embedded
+
+| 项目 | 简介 | 体验与源码 |
 | :--- | :--- | :--- |
-| **嵌入式相关<br>(Embedded)** | [**esp32-openblock**](https://bug423.github.io/esp32-openblock/) 🌐<br>🌐 [在线体验](https://bug423.github.io/esp32-openblock/) · 💻 [源码仓库](https://github.com/BUG423/esp32-openblock) | 面向创客教育的跨平台图形化积木编程与代码生成系统（Web / Tauri 原生双端） |
-| | [**esp32-web-tools**](https://bug423.github.io/esp32-web-tools/) 🌐<br>🌐 [在线体验](https://bug423.github.io/esp32-web-tools/) · 💻 [源码仓库](https://github.com/BUG423/esp32-web-tools) | 基于 Web Serial API 构建的浏览器免驱动 ESP32 固件一键烧录与串口调试平台 |
-| | [**esp32-lab**](https://github.com/BUG423/esp32-lab)<br>💻 [源码仓库](https://github.com/BUG423/esp32-lab) | 涵盖多模态交互、传感器驱动与边缘计算的 ESP32 开源硬件实验项目与固件集合 |
-| **定位相关<br>(Positioning & AI)** | [**app-inertial-lab**](https://github.com/BUG423/app-inertial-lab/releases/latest) 📦<br>📦 [下载 APK (v1.1.0)](https://github.com/BUG423/app-inertial-lab/releases/latest) · 💻 [源码仓库](https://github.com/BUG423/app-inertial-lab) | 融合 200Hz 高精 IMU 与 ARCore VIO 的 Android 端真机轨迹采集与端侧评测应用 |
-| | [**other-blocks**](https://github.com/BUG423/other-blocks)<br>💻 [源码仓库](https://github.com/BUG423/other-blocks) | 面向计算机视觉与惯性定位时序感知任务的即插即用 PyTorch 神经网络模块库 |
-| **人工智能应用与工具<br>(AI & Other)** | [**xmu-nav**](https://bug423.github.io/xmu-nav/) 🌐<br>🌐 [在线体验](https://bug423.github.io/xmu-nav/) · 💻 [源码仓库](https://github.com/BUG423/xmu-nav) | 聚合厦大常用网站、校园生活、学术科研与在线工具的极速校园导航门户 |
-| | [**xmu-grad-guide**](https://bug423.github.io/xmu-grad-guide/) 🌐<br>🌐 [在线体验](https://bug423.github.io/xmu-grad-guide/) · 💻 [源码仓库](https://github.com/BUG423/xmu-grad-guide) | 为信息学院研究生量身定制的毕业流程拆解、任务清单与进度一站式看板系统 |
-| | [**app-stock-agent**](https://github.com/BUG423/app-stock-agent)<br>💻 [源码仓库](https://github.com/BUG423/app-stock-agent) | 基于大语言模型与多智能体协同的股票行情监控、多模态内容分析与策略推理系统 |
-| | [**app-remote-terminal**](https://github.com/BUG423/app-remote-terminal)<br>💻 [源码仓库](https://github.com/BUG423/app-remote-terminal) | 支持多会话隔离、远程安全访问与智能 Coding Agent 深度集成的浏览器交互式终端 |
-| | [**app-quiz-forge**](https://github.com/BUG423/app-quiz-forge)<br>💻 [源码仓库](https://github.com/BUG423/app-quiz-forge) | 基于 Excel 题库零配置导入的跨平台自主练习、错题强化与考试评估工具 |
-| | [**app-ai-lover**](https://github.com/BUG423/app-ai-lover)<br>💻 [源码仓库](https://github.com/BUG423/app-ai-lover) | 基于大语言模型与多模态情感交互的沉浸式伴侣桌面与移动端应用 |
+| **esp32-openblock** | 面向创客教育的图形化积木编程与代码生成系统，支持 Web / Tauri 双端 | [在线体验](https://bug423.github.io/esp32-openblock/) · [源码](https://github.com/BUG423/esp32-openblock) |
+| **esp32-web-tools** | 基于 Web Serial API 的浏览器免驱动 ESP32 固件烧录与串口调试平台 | [在线体验](https://bug423.github.io/esp32-web-tools/) · [源码](https://github.com/BUG423/esp32-web-tools) |
+| **esp32-lab** | 涵盖多模态交互、传感器驱动与边缘计算的 ESP32 硬件实验与固件集合 | [源码](https://github.com/BUG423/esp32-lab) |
+
+### 惯性定位 · Positioning & AI
+
+| 项目 | 简介 | 体验与源码 |
+| :--- | :--- | :--- |
+| **app-inertial-lab** | 融合 200 Hz IMU 与 ARCore VIO 的 Android 真机轨迹采集与端侧评测应用 | [下载 APK](https://github.com/BUG423/app-inertial-lab/releases/latest) · [源码](https://github.com/BUG423/app-inertial-lab) |
+| **other-blocks** | 面向计算机视觉与惯性定位时序感知任务的 PyTorch 神经网络模块库 | [源码](https://github.com/BUG423/other-blocks) |
+
+### 人工智能应用与工具 · AI & Tools
+
+| 项目 | 简介 | 体验与源码 |
+| :--- | :--- | :--- |
+| **xmu-nav** | 聚合厦大常用网站、校园生活、学术科研与在线工具的校园导航门户 | [在线体验](https://bug423.github.io/xmu-nav/) · [源码](https://github.com/BUG423/xmu-nav) |
+| **xmu-grad-guide** | 面向信息学院研究生的毕业流程、任务清单与进度看板 | [在线体验](https://bug423.github.io/xmu-grad-guide/) · [源码](https://github.com/BUG423/xmu-grad-guide) |
+| **app-stock-agent** | 基于大语言模型与多智能体协同的股票行情监控、多模态分析与策略推理系统 | [源码](https://github.com/BUG423/app-stock-agent) |
+| **app-remote-terminal** | 支持多会话隔离、远程安全访问与智能 Coding Agent 集成的浏览器终端 | [源码](https://github.com/BUG423/app-remote-terminal) |
+| **app-quiz-forge** | 支持 Excel 题库导入的跨平台自主练习、错题强化与考试评估工具 | [源码](https://github.com/BUG423/app-quiz-forge) |
+| **app-ai-lover** | 基于大语言模型与多模态情感交互的伴侣桌面与移动端应用 | [源码](https://github.com/BUG423/app-ai-lover) |
 
 ---
 
-### 🔬 代表性科研成果
+## 🔬 代表性科研成果
 
-**学术论文**
+### 学术论文
+
 - **IONext: Unlocking the Next Era of Inertial Odometry**  
   *IEEE Robotics and Automation Letters (RA-L)* · **第一作者** · [IEEE Early Access (DOI: 10.1109/LRA.2026.3709641)](https://doi.org/10.1109/LRA.2026.3709641) · [arXiv](https://arxiv.org/abs/2507.17089)
 
 - **StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**  
-  *ICRA 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16121) · [Poster (PDF)](assets/posters/poster_stario_icra2026.pdf)  
-  <div align="center">
-    <a href="assets/posters/poster_stario_icra2026.png" target="_blank">
-      <img src="assets/posters/poster_stario_icra2026.png" alt="StarIO ICRA 2026 Poster" width="92%" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-    </a>
-  </div>
-  <br>
+  *ICRA 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16121) · [Poster (PDF)](assets/posters/poster_stario_icra2026.pdf)
 
 - **FTIN: Frequency-Time Integration Network for Inertial Odometry**  
   *ICASSP 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16120)
@@ -69,12 +76,24 @@
 - **Boosting Knowledge Distillation via Local Categories Similarity Scaling**  
   *ICASSP 2026* · **第二作者**
 
-**授权发明专利**
+<details>
+<summary>🖼️ 查看 StarIO · ICRA 2026 海报</summary>
+
+<p align="center">
+  <a href="assets/posters/poster_stario_icra2026.png">
+    <img src="assets/posters/poster_stario_icra2026.png" alt="StarIO ICRA 2026 Poster" width="92%" />
+  </a>
+</p>
+
+</details>
+
+### 授权发明专利
+
 - **一种动态融合惯性、视觉与先验信息的定位方法** · **第二发明人** (授权)
 
 ---
 
-### 🏆 主要荣誉与奖项
+## 🏆 主要荣誉与奖项
 
 - 🥇 **2022 全国大学生嵌入式芯片与系统设计竞赛** · **国家级一等奖、最高奖“龙芯中科杯”**
 - 🥇 **2022 全国大学生物联网设计竞赛（华为杯）** · **国家级一等奖**
@@ -85,7 +104,20 @@
 
 ---
 
-### 💼 实践与实习经历
+## 🎤 学术活动与交流
+
+| 年份 | 城市 | 活动 / 机构 |
+| :---: | :---: | :--- |
+| **2025** | 杭州 | 华为杭州研究所 |
+| **2023** | 北京 | 深圳科创学院科创训练营 |
+| **2023** | 东莞 | 华为云开发者大会 |
+| **2023** | 北京 | 华为北京研究所 |
+| **2021** | 上海 | 世界人工智能大会 |
+| **2021** | 上海 | 华为上海研究所 |
+
+---
+
+## 💼 实践与实习经历
 
 - **算法开发实习生 · 厦门松霖科技股份有限公司**（2022.07 – 2022.08）
 - **厦门大学人工智能社团社长 · 华为云校园大使**（2020.09 – 2022.09）
