@@ -56,7 +56,6 @@
 | **app-stock-agent** | 基于大语言模型与多智能体协同的股票行情监控、多模态分析与策略推理系统 | [源码](https://github.com/BUG423/app-stock-agent) |
 | **app-remote-terminal** | 支持多会话隔离、远程安全访问与智能 Coding Agent 集成的浏览器终端 | [源码](https://github.com/BUG423/app-remote-terminal) |
 | **app-quiz-forge** | 支持 Excel 题库导入的跨平台自主练习、错题强化与考试评估工具 | [源码](https://github.com/BUG423/app-quiz-forge) |
-| **app-ai-lover** | 基于大语言模型与多模态情感交互的伴侣桌面与移动端应用 | [源码](https://github.com/BUG423/app-ai-lover) |
 
 ---
 
