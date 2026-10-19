@@ -64,17 +64,21 @@
 
 ### 学术论文
 
-- **IONext: Unlocking the Next Era of Inertial Odometry**  
-  *IEEE Robotics and Automation Letters (RA-L)* · **第一作者** · [IEEE Early Access (DOI: 10.1109/LRA.2026.3709641)](https://doi.org/10.1109/LRA.2026.3709641) · [arXiv](https://arxiv.org/abs/2507.17089)
+- **IONext: Unlocking the Next Era of Inertial Odometry**<br>
+  *IEEE Robotics and Automation Letters (RA-L)*<br>
+  **第一作者** · [IEEE Early Access (DOI: 10.1109/LRA.2026.3709641)](https://doi.org/10.1109/LRA.2026.3709641) · [arXiv](https://arxiv.org/abs/2507.17089)
 
-- **StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**  
-  *ICRA 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16121) · [Poster (PDF)](assets/posters/poster_stario_icra2026.pdf)
+- **StarIO: A Lightweight Inertial Odometry for Nonlinear Motion**<br>
+  *IEEE International Conference on Robotics and Automation (ICRA 2026)*<br>
+  **第一作者** · [Paper](https://arxiv.org/abs/2507.16121) · [Poster (PDF)](assets/posters/poster_stario_icra2026.pdf)
 
-- **FTIN: Frequency-Time Integration Network for Inertial Odometry**  
-  *ICASSP 2026* · **第一作者** · [Paper](https://arxiv.org/abs/2507.16120)
+- **FTIN: Frequency-Time Integration Network for Inertial Odometry**<br>
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*<br>
+  **第一作者** · [Paper](https://arxiv.org/abs/2507.16120)
 
-- **Boosting Knowledge Distillation via Local Categories Similarity Scaling**  
-  *ICASSP 2026* · **第二作者**
+- **Boosting Knowledge Distillation via Local Categories Similarity Scaling**<br>
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)*<br>
+  **第二作者**
 
 <details>
 <summary>🖼️ 查看 StarIO · ICRA 2026 海报</summary>
@@ -90,6 +94,16 @@
 ### 授权发明专利
 
 - **一种动态融合惯性、视觉与先验信息的定位方法** · **第二发明人** (授权)
+
+---
+
+## 📝 学术服务
+
+**期刊与会议审稿人 · Reviewer**
+
+- [IEEE Transactions on Instrumentation and Measurement (**TIM**)](https://ieee-ims.org/publication/ieee-tim)
+- [IEEE Robotics and Automation Letters (**RA-L**)](https://www.ieee-ras.org/publications/ra-l/)
+- [IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/)
 
 ---
 
